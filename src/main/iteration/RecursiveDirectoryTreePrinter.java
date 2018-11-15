@@ -2,7 +2,7 @@ package main.iteration;
 import java.io.File;
 
 public class RecursiveDirectoryTreePrinter {
-    private static final String SPACES = " ";
+    private static final String SPACES = "--|";
 
     public static void main(String[] args) {
         assert args != null : "nie podano nazwy katalogu! Sprobuj ponownie";
@@ -12,7 +12,7 @@ public class RecursiveDirectoryTreePrinter {
 //            System.exit(-1);
 //        }
         try {
-            print(new File("src"), " ");
+            print(new File("src"), "");
         } catch (ArrayIndexOutOfBoundsException e) {
             e.printStackTrace();
         }
@@ -23,7 +23,7 @@ public class RecursiveDirectoryTreePrinter {
         assert file != null : "nie okreslono obiektu File";
         assert indent != null : "nie okreslono wciecia";
 
-        System.out.println(indent);
+        System.out.print(indent);
         System.out.println(file.getName());
 
         if (file.isDirectory()) {
