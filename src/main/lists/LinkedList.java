@@ -182,7 +182,7 @@ public class LinkedList implements List {
         }
 
         public void setNext(Element next) {
-            assert previous != null : "Wskażnik na element następny nie może być pusty";
+            assert next != null : "Wskażnik na element następny nie może być pusty";
             this.next = next;
         }
     }
