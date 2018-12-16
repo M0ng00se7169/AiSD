@@ -11,7 +11,7 @@ public class NaturalComparator implements Comparator {
 
 
     @Override
-    public int compare(Object left, Object right) throws ClassCastException{
+    public int compare(Object left, Object right) throws ClassCastException {
         assert left != null : "nie określono lewego obiektu";
         return ((Comparable)left).compareTo(right);
     }
