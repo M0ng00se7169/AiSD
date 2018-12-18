@@ -7,6 +7,6 @@ import main.sort.ListSorter;
 public class InsertionSortListSorterTest extends AbstractListSorterTest {
     @Override
     protected ListSorter createListSorter(Comparator comparator) {
-        return new InsertionSortListSorter();
+        return new InsertionSortListSorter(comparator);
     }
 }
