@@ -4,12 +4,11 @@ import junit.framework.TestCase;
 import main.iteration.Iterator;
 import main.lists.LinkedList;
 import main.lists.List;
-import main.sort.Comparable;
 import main.sort.Comparator;
 import main.sort.ListSorter;
 import main.sort.NaturalComparator;
 
-public abstract class AbstractListSorterTest extends TestCase implements Comparable{
+public abstract class AbstractListSorterTest extends TestCase{
     private List unsortedList;
     private List sortedList;
 
