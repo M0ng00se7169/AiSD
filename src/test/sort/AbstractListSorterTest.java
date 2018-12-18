@@ -9,7 +9,7 @@ import main.sort.Comparator;
 import main.sort.ListSorter;
 import main.sort.NaturalComparator;
 
-public abstract class AbstractListSorterTest extends TestCase {
+public abstract class AbstractListSorterTest extends TestCase implements Comparable{
     private List unsortedList;
     private List sortedList;
 
@@ -75,5 +75,4 @@ public abstract class AbstractListSorterTest extends TestCase {
             actual.next();
         }
     }
-
 }
