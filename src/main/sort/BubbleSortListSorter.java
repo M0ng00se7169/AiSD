@@ -2,14 +2,14 @@ package main.sort;
 
 import main.lists.List;
 
-public class BubblesortListSorter implements ListSorter {
+public class BubbleSortListSorter implements ListSorter {
     private final Comparator comparator;
 
     /**
      * Konstruktor
      * @param comparator = Comparator
      */
-    public BubblesortListSorter(Comparator comparator) {
+    public BubbleSortListSorter(Comparator comparator) {
         assert comparator != null : "Nie określono komparatora";
         this.comparator = comparator;
     }

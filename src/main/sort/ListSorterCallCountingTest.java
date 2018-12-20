@@ -31,7 +31,7 @@ public class ListSorterCallCountingTest extends TestCase {
     }
 
     public void testReverseCaseBubblesort() {
-        new BubblesortListSorter(comparator).sort(reverseArrayList);
+        new BubbleSortListSorter(comparator).sort(reverseArrayList);
         reportCalls();
     }
 
@@ -46,7 +46,7 @@ public class ListSorterCallCountingTest extends TestCase {
     }
 
     public void testDirectCaseBubblesort() {
-        new BubblesortListSorter(comparator).sort(sortedArrayList);
+        new BubbleSortListSorter(comparator).sort(sortedArrayList);
         reportCalls();
     }
 
@@ -61,7 +61,7 @@ public class ListSorterCallCountingTest extends TestCase {
     }
 
     public void testRandomCaseBubblesort() {
-        new BubblesortListSorter(comparator).sort(randomArrayList);
+        new BubbleSortListSorter(comparator).sort(randomArrayList);
         reportCalls();
     }
 
