@@ -3,31 +3,35 @@ package main.queues;
 import main.lists.LinkedList;
 import main.lists.List;
 import main.sort.Comparator;
-import org.jetbrains.annotations.Contract;
 
-public class UnsortedListPriorityQueue implements Queue {
+public class SortedListPriorityQueue implements Queue {
+
     /** Lista przechowująca elementy */
     private final List list;
 
     /** Komparator wyznaczający priorytet elementów */
     private final Comparator comparator;
 
-    public UnsortedListPriorityQueue(Comparator comparator) {
-        assert comparator != null : "Nie określono komparatora";
+    public SortedListPriorityQueue(Comparator comparator) {
+        assert comparator != null : "nie określono komparatora";
         this.comparator = comparator;
         this.list = new LinkedList();
     }
 
     @Override
     public void enqueue(Object value) {
-        list.add(value);
+        int pos = list.size();
+        while (pos > 0 && comparator.compare(list.get(pos - 1), value) > 0) {
+            --pos;
+        }
+        list.insert(pos, value);
     }
 
     @Override
     public Object dequeue() throws EmptyQueueException {
         if (isEmpty())
             throw new EmptyQueueException();
-        return list.delete(getIndexOfLargestElement());
+        return list.delete(list.size() - 1);
     }
 
     @Override
@@ -43,17 +47,5 @@ public class UnsortedListPriorityQueue implements Queue {
     @Override
     public boolean isEmpty() {
         return list.isEmpty();
-    }
-
-    private int getIndexOfLargestElement() {
-        int result = 0;
-
-        for (int i = 1; i < list.size(); i++) {
-            if (comparator.compare(list.get(i), list.get(result)) > 0) {
-                result = i;
-            }
-        }
-
-        return result;
     }
 }
