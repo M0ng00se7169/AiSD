@@ -2,6 +2,7 @@ package main.binarySearch;
 
 import main.lists.List;
 import main.sort.Comparator;
+import main.sort.NaturalComparator;
 
 public class IterativeBinaryListSearcher implements ListSearcher {
 
@@ -29,7 +30,7 @@ public class IterativeBinaryListSearcher implements ListSearcher {
         while (lowerIndex <= upperIndex) {
             int index = lowerIndex + (upperIndex - lowerIndex) / 2;
 
-            int cmp = comparator.compare(key, list.get(index));
+            int cmp = (Integer)(comparator.compare(key, list.get(index)));
 
             if (cmp == 0) {
                 return index;
