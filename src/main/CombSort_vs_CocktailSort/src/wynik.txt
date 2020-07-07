@@ -1,0 +1,32 @@
+Nazwa pliku         Liczebność          Metoda              Liczba porównań     Liczba zamian       
+Z2_DATA_11          200                 Cocktail Sort       15295               10293                
+Z2_DATA_11          200                 Comb Sort           39581               10759                
+Z2_DATA_12          400                 Cocktail Sort       61182               39626                
+Z2_DATA_12          400                 Comb Sort           163115              40854                
+Z2_DATA_13          800                 Cocktail Sort       240000              157270               
+Z2_DATA_13          800                 Comb Sort           604640              159321               
+Z2_DATA_21          200                 Cocktail Sort       20000               19900                
+Z2_DATA_21          200                 Comb Sort           42168               20344                
+Z2_DATA_22          400                 Cocktail Sort       80000               79800                
+Z2_DATA_22          400                 Comb Sort           165509              80620                
+Z2_DATA_23          800                 Cocktail Sort       320000              319600               
+Z2_DATA_23          800                 Comb Sort           652580              320738               
+Z2_DATA_31          200                 Cocktail Sort       199                 0                    
+Z2_DATA_31          200                 Comb Sort           2567                0                    
+Z2_DATA_32          400                 Cocktail Sort       399                 0                    
+Z2_DATA_32          400                 Comb Sort           6308                0                    
+Z2_DATA_33          800                 Cocktail Sort       799                 0                    
+Z2_DATA_33          800                 Comb Sort           14179               0                    
+
+
+Wnioski, dot. zadania:
+1) Liczebność zbioru bardzo wpływa na efekt pracy algorytmu. W przypadku Comb Sort, z rostem liczebności,
+złożoność algorytmu(mając na uwadze zbior nieposortowany, randomowy) jest wyrażana O(n^2) i to można widzieć na podstawie
+ilości porównań i zamian.
+2) Rodzaj danych wpływa na algorytm takim czynem, jak mamy zbiór posortowany malejąco, liczba porównań i zamian
+jest maksymalna, przy posortowanym rosnąco, cocktail sort po prostu przeechodzi po algorytmu i liczba porównań jest 
+równa liczebności, a comb sort przechodzi, zmniejszając grzebień, więc ilość porównań jest kilkukrotnie większe.
+3) Algorytm comb sort robi dużo niepotrzebnych porównań przy równaniu grzebniu, a przy wzrastaniu liczebności zbioru, 
+efektywność tego algorytmu sortowania spada w porównaniu z Cocktail Ssort. W Algorytmie Cocktail Sort przy przechodzeniu
+od końca zbioru do jego początku, minimalny element "wspływa" na pierwszą pozycją, a maksymalny tylko na jedną pozycję wprawo,
+

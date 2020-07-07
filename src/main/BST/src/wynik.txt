@@ -1,0 +1,14 @@
+Nazwa metody                         Nazwa wyrazu                  Miejsce w wyrazie             Liczba porównań
+Sekwencyjna                          mars                          167                           167             
+ Binarne                             mars                          167                           12              
+ Sekwencyjna                         ogilvy                        1170                          1170            
+ Binarne                             ogilvy                        1693                          12              
+ Sekwencyjna                         sky                           2212                          2212            
+ Binarne                             sky                           167                           12              
+ Sekwencyjna                         meteor                        0                             2218            
+ Binarne                             meteor                        0                             12              
+
+ Jak widać z wyników działania algorytmów, metoda wyszukiwania binarnego jest o wiele optymalna, niż metoda
+ wyszukiwania sekwencyjnego, ponieważ złożoność Binary Search można wyrazić wzorem O(log(n)), a Sequency Search O(n),
+ więc z tego wynika, że wyszukiwania klucza w zbiorze posortowanym jest bardziej optymalne, niż przechodzenie po
+ całym tekscie aż do momentu znalezienia odpowiedniego elementu.

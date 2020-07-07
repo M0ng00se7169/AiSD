@@ -1,0 +1,337 @@
+Numer pokolenia: 1
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1655.0033333333333
+Numer pokolenia: 2
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1704.8666666666666
+Numer pokolenia: 3
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1671.8333333333333
+Numer pokolenia: 4
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1635.1066666666666
+Numer pokolenia: 5
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1643.12
+Numer pokolenia: 6
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1700.4733333333334
+Numer pokolenia: 7
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1686.32
+Numer pokolenia: 8
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1615.8466666666666
+Numer pokolenia: 9
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+1663.7033333333334
+Numer pokolenia: 10
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->g-->h-->n-->j-->k-->l-->m-->i-->o-->a  FC: 467
+h-->e-->k-->j-->i-->g-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 556
+h-->e-->k-->g-->i-->j-->m-->n-->o-->b-->a-->d-->c-->f-->l-->h  FC: 620
+h-->i-->d-->l-->n-->c-->a-->f-->j-->k-->m-->o-->g-->e-->b-->h  FC: 656
+h-->a-->b-->d-->i-->l-->j-->n-->o-->e-->f-->c-->g-->k-->m-->h  FC: 701
+
+300
+60
+10000
+1829.1633333333334
+Numer pokolenia: 1
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1636.7233333333334
+Numer pokolenia: 2
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1570.09
+Numer pokolenia: 3
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1620.4966666666667
+Numer pokolenia: 4
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1613.3566666666666
+Numer pokolenia: 5
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1595.2033333333334
+Numer pokolenia: 6
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1653.48
+Numer pokolenia: 7
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1655.7233333333334
+Numer pokolenia: 8
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1585.8533333333332
+Numer pokolenia: 9
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+1643.7033333333334
+Numer pokolenia: 10
+Najlepsze 5:
+a-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->a  FC: 299
+c-->e-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 307
+c-->b-->o-->n-->l-->f-->g-->m-->k-->i-->h-->a-->e-->d-->j-->c  FC: 339
+c-->e-->o-->n-->g-->f-->l-->m-->k-->i-->h-->a-->b-->d-->j-->c  FC: 369
+c-->j-->o-->n-->m-->f-->i-->k-->l-->g-->h-->a-->e-->d-->b-->c  FC: 451
+
+3000
+300
+100
+1861.679
+Numer pokolenia: 1
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1750.206
+Numer pokolenia: 2
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1677.705
+Numer pokolenia: 3
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1632.282
+Numer pokolenia: 4
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1573.584
+Numer pokolenia: 5
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1523.265
+Numer pokolenia: 6
+Najlepsze 5:
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+c-->a-->o-->g-->j-->k-->m-->f-->b-->h-->l-->n-->i-->d-->e-->c  FC: 492
+b-->a-->g-->f-->m-->n-->o-->j-->d-->i-->e-->k-->c-->l-->h-->b  FC: 504
+l-->h-->j-->d-->e-->b-->a-->c-->o-->n-->m-->k-->i-->g-->f-->l  FC: 507
+o-->m-->n-->j-->k-->c-->l-->f-->i-->g-->h-->a-->d-->b-->e-->o  FC: 524
+1491.3706666666667
+Numer pokolenia: 7
+Najlepsze 5:
+b-->f-->c-->n-->k-->m-->j-->g-->l-->d-->i-->o-->e-->a-->h-->b  FC: 439
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->m-->n-->k-->c-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 468
+1465.3156666666666
+Numer pokolenia: 8
+Najlepsze 5:
+b-->f-->c-->n-->k-->m-->j-->g-->l-->d-->i-->o-->e-->a-->h-->b  FC: 439
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->m-->n-->k-->c-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 468
+1439.945
+Numer pokolenia: 9
+Najlepsze 5:
+b-->f-->c-->n-->k-->m-->j-->g-->l-->d-->i-->o-->e-->a-->h-->b  FC: 439
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->m-->n-->k-->c-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 468
+1417.8736666666666
+Numer pokolenia: 10
+Najlepsze 5:
+b-->f-->c-->n-->k-->m-->j-->g-->l-->d-->i-->o-->e-->a-->h-->b  FC: 439
+a-->b-->c-->d-->f-->e-->j-->h-->i-->g-->k-->l-->m-->n-->o-->a  FC: 446
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->c-->n-->k-->m-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 466
+l-->f-->m-->n-->k-->c-->j-->g-->a-->d-->i-->o-->e-->b-->h-->l  FC: 468
+
+3000
+300
+1000
+1899.4876666666667
+Numer pokolenia: 1
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+a-->f-->c-->d-->b-->e-->g-->m-->j-->i-->k-->l-->h-->n-->o-->a  FC: 454
+1791.2956666666666
+Numer pokolenia: 2
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+a-->f-->c-->d-->b-->e-->g-->m-->j-->i-->k-->l-->h-->n-->o-->a  FC: 454
+1715.3203333333333
+Numer pokolenia: 3
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+a-->f-->c-->d-->b-->e-->g-->m-->j-->i-->k-->l-->h-->n-->o-->a  FC: 454
+1665.0913333333333
+Numer pokolenia: 4
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+a-->f-->c-->d-->b-->e-->g-->m-->j-->i-->k-->l-->h-->n-->o-->a  FC: 454
+1609.563
+Numer pokolenia: 5
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+a-->f-->c-->d-->b-->e-->g-->m-->j-->i-->k-->l-->h-->n-->o-->a  FC: 454
+1575.227
+Numer pokolenia: 6
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+i-->h-->b-->j-->n-->o-->m-->k-->e-->f-->a-->d-->c-->l-->g-->i  FC: 441
+1528.9953333333333
+Numer pokolenia: 7
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+i-->h-->b-->j-->n-->o-->m-->k-->e-->f-->a-->d-->c-->l-->g-->i  FC: 441
+1504.7246666666667
+Numer pokolenia: 8
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+i-->h-->b-->j-->n-->o-->m-->k-->e-->f-->a-->d-->c-->l-->g-->i  FC: 441
+1472.4143333333334
+Numer pokolenia: 9
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+i-->h-->b-->j-->n-->o-->m-->k-->e-->f-->a-->d-->c-->l-->g-->i  FC: 441
+1425.1176666666668
+Numer pokolenia: 10
+Najlepsze 5:
+c-->a-->e-->d-->i-->k-->m-->j-->n-->o-->g-->h-->b-->f-->l-->c  FC: 423
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+m-->h-->b-->a-->o-->i-->f-->d-->e-->j-->n-->g-->l-->c-->k-->m  FC: 437
+a-->b-->c-->d-->f-->e-->g-->h-->j-->i-->k-->l-->m-->n-->o-->a  FC: 438
+i-->h-->b-->j-->n-->o-->m-->k-->e-->f-->a-->d-->c-->l-->g-->i  FC: 441
+
+
+Wnioski: Jak widać z wyników algorytm działa poprawnie, ponieważ iloraz srednia FC dla każdego pokolenia
+sie zmniejsza, a to mówi o tym, że do każdej nowej generacji trafią osobniki z najmniejszym FC.
+I znalezienie krótszej scieżki zależy od generatora liczba pseudolosowych,i więc przy każdym uruchomieniu
+programu wartości będą się różnić.

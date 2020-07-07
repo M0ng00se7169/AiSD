@@ -1,0 +1,29 @@
+Dla Z5data1:
+Wybierz miasto poczatku i konca: d
+Najkrótsza trasa: d--->a--->b--->c--->e--->f--->d
+Najmniejsza odleglosc: 94
+
+Dla Z5data2:
+Wybierz miasto poczatku i konca: c
+Najkrótsza trasa: c--->a--->g--->d--->b--->f--->o--->n--->h--->e--->j--->i--->k--->l--->m--->c
+Najmniejsza odleglosc: 3286
+
+Wybierz miasto poczatku i konca: f
+Najkrótsza trasa: f--->b--->d--->g--->a--->c--->m--->l--->k--->i--->j--->e--->h--->n--->o--->f
+Najmniejsza odleglosc: 3286
+
+Wybierz miasto poczatku i konca: j
+Najkrótsza trasa: j--->e--->h--->n--->o--->f--->b--->d--->g--->a--->c--->m--->l--->k--->i--->j
+Najmniejsza odleglosc: 3286
+
+Wybierz miasto poczatku i konca: o
+Najkrótsza trasa: o--->f--->b--->d--->g--->a--->c--->m--->l--->k--->i--->j--->e--->h--->n--->o
+Najmniejsza odleglosc: 3286
+
+Uwagi:
+ Jak wynika z powyższego ten problem odnosi sie do NP trudnych, i liczba kombinacji wag w grafie
+wyliczana jest ze wzoru (N-1)! / 2 więc przy to będzie wymagało bardzo dużo obliczen i czasu przy
+normalnych okolicznościach, bo złożoność obliczeniowa wyliczana jest ze wzoru: O(N^2 * 2^N), co wymaga
+bardzo dużo obliczeń nawet dla samych mocnych domowych komputerów naszego czasu.
+ I obserwując wynik doszedłem do wniosku, że strategia optymalizacyjna działa sprwanie, bo mamy graf pełny ważony,
+i trasa będzie równa zawsze minimalnej sumie z możliwych.
